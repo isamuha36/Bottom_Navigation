@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BNI" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.BNI" parent="Base.Theme.BNI">
+        <item name="selectableItemBackground">@android:color/transparent</item>
+
+        <item name="shapeAppearanceSmallComponent">@style/Widget.BNI.ButtonShape</item>
+        <item name="shapeAppearanceMediumComponent">@style/Widget.BNI.ButtonShape</item>
+        <item name="shapeAppearanceLargeComponent">@style/Widget.BNI.ButtonShape</item>
+    </style>
+</resources>

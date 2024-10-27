@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BNI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="selamat">Selamat Malam,</string>
+    <string name="name">Isa Muhammad</string>
+    <string name="account_details">BNI Taplus Muda | 7263-2938-2390-****</string>
+</resources>
